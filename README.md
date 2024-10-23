@@ -28,7 +28,6 @@ Here are some of the tools and languages I use:
 ![Laragon](https://img.shields.io/badge/-Laragon-0C78BB?logo=laragon&logoColor=white&style=for-the-badge)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-374140?logo=dbeaver&logoColor=white&style=for-the-badge)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 
