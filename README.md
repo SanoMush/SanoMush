@@ -21,8 +21,6 @@ Here are some of the tools and languages I use:
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-F05032?logo=laravel&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-FF6A37?logo=postman&logoColor=white&style=for-the-badge)
