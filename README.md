@@ -1,6 +1,6 @@
 # Hi, I'm Mustofa Husni Sanoval!👋
 
-I'm a passionate web and mobile developer currently focusing on Kotlin and Laravel. 🚀
+I'm a passionate web and mobile developer currently focusing on Kotlin and Laravel. 
 
 - 🌱 I’m learning Kotlin for Android development and Laravel for web development
 - 💬 Ask me about **Kotlin**, **Laravel**, and building modern **web** and **mobile applications**
