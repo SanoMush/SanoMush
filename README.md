@@ -2,9 +2,9 @@
 
 I'm a passionate web and mobile developer currently focusing on Kotlin and Laravel. 
 
-- 🌱 I’m learning Kotlin for Android development and Laravel for web development
-- 💬 Ask me about **Kotlin**, **Laravel**, and building modern **web** and **mobile applications**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mustofa-husni-sanoval-653869270/) or [Email](mailto:mustofahusni27@gmail.com)
+-  I’m learning Kotlin for Android development and Laravel for web development
+-  Ask me about **Kotlin**, **Laravel**, and building modern **web** and **mobile applications**
+-  How to reach me: [LinkedIn](https://www.linkedin.com/in/mustofa-husni-sanoval-653869270/) or [Email](mailto:mustofahusni27@gmail.com)
 
 ## 🛠 Technologies & Tools
 Here are some of the tools and languages I use:
